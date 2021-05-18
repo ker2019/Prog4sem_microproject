@@ -1,0 +1,12 @@
+*.pvd
+*.vtu
+*.tsv
+envelope
+meshgen
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+*.xml
+__pycache__/
+
